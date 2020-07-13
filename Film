@@ -7,7 +7,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:0 tvg-ID="FOX.id" group-title="MOVIES" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
-#EXTINF:0 tvg-ID="FOXMoviesPremium.id" group-title="M)VIES" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png", FOX Movies 
+#EXTINF:0 tvg-ID="FOXMoviesPremium.id" group-title="MOVIES" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png", FOX Movies 
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:0 tvg-ID="FOXActionMovies.id" group-title="MOVIES" tvg-logo="https://i.postimg.cc/T3qMZDy0/foxact4.png", FOX Action Movies
