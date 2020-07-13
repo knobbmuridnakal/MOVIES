@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="MOVIES",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
- #EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="" group-title="MOVIES",FOX Family Movies
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="" group-title="MOVIES",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 
